@@ -12,7 +12,7 @@ function doRequest() {
         headers: {
             "Content-Type": "application/json",
             Accept: "application/json",
-            Authorization: "Bearer 354b0325da3c929029dac2fd344e2cfaaa45ea5c20140995fd6b3ef6331e95a5",
+            Authorization: "Bearer TOKEN",
         }
     };
 
